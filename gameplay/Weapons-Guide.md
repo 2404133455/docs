@@ -22,6 +22,10 @@ Please note that these ratings do not accurately define the weapons' traits. The
 
 Also, do note that unless otherwise stated, a weapon being "strong" or "weak" against another is not a hard counter. The only real hard counter in this game is the *Energy Sword v. Flame Thrower* match up, and even that is dependent on either user's skill sometimes.<br><br><br>
 
+### Weapon combinations
+
+[Click here](Weapon-Combos.md) for a comprehensive guide regarding weapon combinations.<br><br><br>
+
 ### Quick weapon difficulty guide
 
 From easiest to hardest, here are the weapons you can master in Red Eclipse:
