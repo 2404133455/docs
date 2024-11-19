@@ -35,7 +35,7 @@ What is the problem here, exactly? There are better options for either weapon: t
 
 | Utility | Range | Difficulty | *Overall performance* |
 |---------------|---------------|----------------|----------------|
-| Adaptable (☆☆☆) | Adequate (☆☆☆) | Medium (☆☆☆) | Well above average (☆☆☆☆☆☆☆) |
+| Adaptable (☆☆☆) | Adequate (☆☆☆) | Medium (☆☆☆) | Excellent (☆☆☆☆☆☆☆☆) |
 
 Kind of similar to the Shotgun strategy, but you have much more leeway in what range you want to approach your enemies from, and you can always get out. The best benefit of this loadout is that it combines the two lightest weapons in the game, which gives you an insane maneuverability boost that you physically cannot have with other loadouts.
 
@@ -55,7 +55,7 @@ Combining the two shortest-ranged weapons in the game may seem like an idiotic i
 
 As it turns out, yes, no and no. Similarly to the Shotgun and SMG, you might find yourself adopting a rushdown strategy. This is to be expected, but where does the bulk of this loadout's potential truly lie? In status effects! You can start burning somebody with the Flamethrower and then switch to the Sword to lop their head off, and they will take 30 damage in 5 seconds. You can do it in the opposite direction to achieve the exact same result (which matters, as every time a status effect is reapplied, it skips its damage tick), and you can mix and match DoT effects for different situations. It is really easy to hit somebody with either weapon (especially the Flamethrower), and both weapons cover each other's weaknesses in every department but range - the Flamethrower's weakness being ridiculous ammo consumption, which the Sword covers by not requiring any ammunition, and the Sword's weakness being lack of crowd control, which the Flamethrower excels in. On top of that, since neither weapon is particularly heavy, you open up many interesting avenues regarding movement techniques, like air blast jumps to save yourself some impulse.
 
-The obvious weakness of this loadout is that you need to get close to people to actually play the game, which was said in every paragraph already. This can really hurt against certain weapons (the Laser Rifle and the Electro-Zapper being your main weaknesses), so engage them carefully and ambush them whenever you can. However, you will find that it's not nearly as hard as you would expect, and while not a loadout with the strongest damage potential, it certainly performs better than it looks at first glance! Turn your brain off and slice away. Or don't turn your brain off. You might wanna, though, since it's about to get heated.
+The obvious weakness of this loadout is that you need to get close to people to actually play the game, which was said in every paragraph already. This can really hurt against certain weapons (the Laser Rifle and the Electro-Zapper being your main weaknesses), so engage them carefully and ambush them whenever you can. However, you will find that it's not nearly as hard as you would expect, and while not a loadout with the strongest damage potential, it certainly performs better than it looks at first glance! And don't forget, you have a Pistol that can, with some practice, cover your notorious mid-range weakness. So turn your brain off and slice away. Or don't turn your brain off. You might wanna, though, since it's about to get heated.
 
 ### Sword + Plasma
 
@@ -71,6 +71,40 @@ The Plasma Inductor's primary fire is good specifically at a medium range, not b
 
 One of the worst parts about this loadout is that the Plasma alt-fire has absolutely no synergy with the Sword. At least every other gun in the game can hurl some shots at whatever is locked inside of the big blue ball of death (even the Flamer, though it is ill-advised), but the Sword lacks any range to even attempt to do that. Should you be suicidal enough to try throwing yourself inside as a last-ditch attempt to finish an enemy off, the attraction effect makes it very hard to hit anything while inside the ball. Of course, just because it's rated so low does not mean you cannot get kills with it, and it can prove a decent challenge to the veterans of the game to use these two weapons effectively with one another. But you are probably better off trying something else.
 
+### Sword + Zapper
+
+[<img src="../images/weapons/sword.png" width="128px"/>](Weapon-Sword.md) [<img src="../images/weapons/zapper.png" width="128px"/>](Weapon-Zapper.md)
+
+| Utility | Range | Difficulty | *Overall performance* |
+|---------------|---------------|----------------|----------------|
+| Adaptable (☆☆☆) | Adequate (☆☆☆) | Medium (☆☆☆) | Average (☆☆☆☆☆) |
+
+It's kind of similar to Sword + SMG, but with a better average working range in exchange for vastly inferior acceleration. As such, its performance is similar as well, with a few notable differences.
+
+Ammo consumption, for one, is not as much of an issue as it is for the SMG, and the Zapper's alt-fire can provide for an interesting option to stun opponents that get too close to comfort so you can more easily run away, or so you can more easily chase them down with the Sword. In that regard, it's a little more versatile, but you will find yourself often falling back to the Zapper for damage, which is somewhat inferior to other weapons. Still, the Zapper being a reliable weapon in general, that should not be that much of a problem.
+
+With this loadout, you may find yourself using the Zapper way more than the Sword, which kind of defeats the purpose of stocking the Sword in the first place for anything other than the extra speed (and is the reason why the performance score is low - stock something that works better with the Sword!). Still, it has a much better range then the Sword + Shotgun loadout, so it plays notably better in spite of the increased mass, and the Sword fulfills its purpose of dealing damage at close range better than the Zapper does, as long as you can score the hits.
+
+### Sword + Rifle
+
+[<img src="../images/weapons/sword.png" width="128px"/>](Weapon-Sword.md) [<img src="../images/weapons/rifle.png" width="128px"/>](Weapon-Rifle.md)
+
+| Utility | Range | Difficulty | *Overall performance* |
+|---------------|---------------|----------------|----------------|
+| Strict (☆) | Narrow (☆☆) | Very hard (☆☆☆☆☆) | Excellent (☆☆☆☆☆☆☆☆) |
+
+The Rifle is the primary weapon of this loadout, but the Sword will play a great supporting role while using it. Nobody really expects a sniper to suddenly charge at them and cut them to death, after all!
+
+Easy to fall back to when you run out of ammo and giving you extra mobility, the Sword will be the best tool to fend off baddies at close range, allowing you to weaken them and finish off low-health enemies with a clean follow-up shot to the body. And the Rifle, of course, will do its job picking off targets from afar. Neither weapon conflicts with one another in purpose, but then again, the Rifle is one of two weapons in the game designed for use at long ranges.
+
+Two problems: one, this is the slowest Sword loadout. Two, you have a big mid-range weakness with this: the Sword cannot reach too far, and the Laser Rifle is much more effective when you are not being pressured with constant fire, leaving you to use the Pistol at suboptimal conditions. However, for an experienced player, this can be a pretty good change of pace, and of course, there are very few circumstances in which a player can resist a scoped-in headshot.
+
+### Sword + Corroder
+[<img src="../images/weapons/sword.png" width="128px"/>](Weapon-Sword.md) [<img src="../images/weapons/corroder.png" width="128px"/>](Weapon-Corroder.md)
+
+| Utility | Range | Difficulty | *Overall performance* |
+|---------------|---------------|----------------|----------------|
+| Adaptable (☆☆☆) | Narrow (☆☆) | Very hard (☆☆☆☆☆) | Average (☆☆☆☆☆) |
 
 
 ### Shotgun + SMG
@@ -79,7 +113,7 @@ One of the worst parts about this loadout is that the Plasma alt-fire has absolu
 
 | Utility | Range | Difficulty | *Overall performance* |
 |---------------|---------------|----------------|----------------|
-| Adaptable (☆☆☆) | Vast (☆☆☆☆☆) | Medium (☆☆☆) | Playstyle-defining (☆☆☆☆☆☆☆☆☆☆) |
+| Adaptable (☆☆☆) | Adequate (☆☆☆) | Medium (☆☆☆) | Playstyle-defining (☆☆☆☆☆☆☆☆☆☆) |
 
 The extremely powerful Shotgun + SMG loadout is in frequent use by psychopaths that regularly escape the mental wards they are locked in so that they can indiscriminately slaughter twenty people and get a free Rocket Launcher, which is, to say, a lot of the Red Eclipse playerbase. Where do we even begin for these two absolutely beastly weapons?
 
@@ -100,6 +134,8 @@ The true generalist's loadout: what is better than having one gun that works at 
 At first, it may seem a bit counter-intuitive to combine two weapons that work well at the same ranges, until you realize that they already work well at all of them, which bolsters the force projection of your arsenal to scandalous levels. Even though the SMG is less effective at longer ranges than the Zapper, it can still scratch people for some chip damage, and the Zapper can just as well hurt people at closer ranges that the SMG is better at. Does one outshine the other in any way, since they are so similar? Not really. If anything, the fact that they can be used so interchangably means you will be prepared for enemies no matter what, be it in offensive or defensive scenarios, and your movement speed is not impacted too harshly. 
 
 One big weakness of this playstyle is that you are just a little bit more predictable than other players. Sure, with the occasional ricochet off a wall or the Zapper alt-fire blasting all over someone's face, you can get some interesting kills, but you will be doing more of the same with these two weapons. Still, while somewhat plain, it is effective. Very effective. Pick it over Shotgun + SMG in case you are fighting with the Duel mutator on and are struggling to get close enough to your enemy.
+
+### Flamer + Corroder
 
 ### Plasma + Corroder
 
